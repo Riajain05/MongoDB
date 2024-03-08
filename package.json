@@ -1,0 +1,17 @@
+{
+  "name": "mongo_project",
+  "version": "1.0.0",
+  "description": "This is project about using mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongoose"
+  ],
+  "author": "Riya",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.1.3"
+  }
+}
